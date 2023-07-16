@@ -29,4 +29,5 @@ git commit -m 'Text of description the commit'
 git push
 git pull
 git status
+git log
 ```
