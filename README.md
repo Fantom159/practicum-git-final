@@ -24,4 +24,9 @@ $ git push -u origin main
 Основные команды работы с репозиторием:
 ```
 git config --list ##просмотр конфигурации
+git add --all
+git commit -m 'Text of description the commit'
+git push
+git pull
+git status
 ```
